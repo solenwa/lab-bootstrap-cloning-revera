@@ -4,11 +4,6 @@ body {
 }
 
 header {
-    display: flex;
-    justify-content: center;
-    width: 100%
-}
-
-.navbar {
-    width: 100%;
+    background-image: url("./starter-code/img/slider-1.jpg");
+    filter: grayscale(100%);
 }
